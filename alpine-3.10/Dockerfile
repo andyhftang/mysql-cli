@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.10
 LABEL Maintainer="andyhftang <andyhftang@gmail.com>" \
       Description="A clean and simple Docker image based on latest Apline with mysql-cli installed."
 
