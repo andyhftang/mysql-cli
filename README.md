@@ -31,4 +31,4 @@ $ echo "alias mysql='docker run -it --rm andyhftang/mysql-cli'" >> ~/.bashrc
 ```
 
 ## License
-[MIT License](./LICENSE)
+[MIT License](https://github.com/andyhftang/mysql-cli/blob/master/LICENSE)
